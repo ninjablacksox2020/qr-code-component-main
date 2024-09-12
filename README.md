@@ -25,7 +25,7 @@ This is my first front-end development project, replicated a QR code component.
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://ninjablacksox2020.github.io/qr-code-component-main/
 
 ## My process
 
